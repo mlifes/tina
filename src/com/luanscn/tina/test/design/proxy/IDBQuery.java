@@ -1,4 +1,4 @@
-package com.luanscn.tina.test.design.agency;
+package com.luanscn.tina.test.design.proxy;
 /**
  * 主题接口
  * */

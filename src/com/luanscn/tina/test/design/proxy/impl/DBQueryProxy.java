@@ -1,6 +1,6 @@
-package com.luanscn.tina.test.design.agency.impl;
+package com.luanscn.tina.test.design.proxy.impl;
 
-import com.luanscn.tina.test.design.agency.IDBQuery;
+import com.luanscn.tina.test.design.proxy.IDBQuery;
 
 /**
  * 代理类

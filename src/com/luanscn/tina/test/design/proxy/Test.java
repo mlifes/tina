@@ -1,6 +1,6 @@
-package com.luanscn.tina.test.design.agency;
+package com.luanscn.tina.test.design.proxy;
 
-import com.luanscn.tina.test.design.agency.impl.DBQueryProxy;
+import com.luanscn.tina.test.design.proxy.impl.DBQueryProxy;
 import com.luanscn.tina.test.util.TestUtil;
 /**
  * 
